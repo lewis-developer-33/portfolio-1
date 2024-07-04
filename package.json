@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "@react-spring/three": "^9.7.3",
+    "@react-three/drei": "^9.88.2",
+    "@react-three/fiber": "^8.14.5",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.4"
+    "next": "14.2.4",
+    "react-vertical-timeline-component": "^3.6.0",
+    "three": "^0.157.0"
   },
   "devDependencies": {
     "postcss": "^8",
